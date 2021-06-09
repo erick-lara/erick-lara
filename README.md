@@ -1,4 +1,6 @@
-### Hi there 👋
+### Olá, me chamo Erick Lara e sou estudante de ADS na Faculdade BandTec 👋
+![Erick Lara's GitHub stats](https://github-readme-stats.vercel.app/api?username=tatozyn&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tatozyn&theme=radical)
 
 <!--
 **tatozyn/tatozyn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
