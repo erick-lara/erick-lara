@@ -1,7 +1,7 @@
 <h1 align="center">Eai, eu sou o Erick</h1>
 <h3 align="center">Sejam bem vindos ao meu perfil</h3>
 
-Estudo Analise e Desenvolvimento de sistemas pela Faculdade BandTec
+Estudo Analise e Desenvolvimento de sistemas pela Faculdade SPTech
 <br>
 Gosto de estudar algumas coisas por fora e estar sempre aprendendo é o que me motiva.
 <br>
