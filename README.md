@@ -3,14 +3,14 @@
 
 Seja bem vindo ao meu perfil!
 
-Estudo Análise e Desenvolvimento de Sistemas na Faculdade São Paulo Tech School, sou Desenvolvedor backend a 1 ano.
-
 Espalho a palavra do Java ☕​ para aqueles que vêm até mim!
 
 Estou sempre estudando algo por fora e fazendo algum projeto a parte pra desenvolver algum ponto.
 
 Atualmente sigo estudando mais sobre :
 - SpringBoot (JPA, Security, Cloud e afins)
+- Microservices
+- AWS
 - Docker
 - Design Patterns
 - SOLID
